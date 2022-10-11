@@ -1,4 +1,4 @@
-![img](https://fc.dianhsu.top/lc?user=qyaaaa&loc=cn&req=rating)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qyaaaa&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyaaaa&hide=javascript,html)](https://github.com/qyaaaa)
